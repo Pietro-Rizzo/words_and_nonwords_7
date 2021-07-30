@@ -1,0 +1,10 @@
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.
+
+However, an exception is made: in situations in which this work is employed for education or research, additional permissions are granted, to the effect that educators and researchers (including researchers-in-training, such as university students) may use this work as if it were licensed under the Creative Commons Attribution-NonCommercial 4.0 International License; i.e., they are also allowed to alter, transform or build upon my work.
+
+To view a copy of either license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ or http://creativecommons.org/licenses/by-nc/4.0/, respectively, or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+To cite this work:
+Rizzo, P. (2021). Words and nonwords. GitHub. https://github.com/Pietro-Rizzo/words_and_nonwords_1
+
+I kindly ask, but do not demand, that those who make use of my work also inform me of such use, by sending a message at my email address, pietrorizzo1993@gmail.com.
